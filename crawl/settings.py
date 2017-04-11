@@ -37,7 +37,8 @@ ROBOTSTXT_OBEY = False
 DOWNLOAD_DELAY = 5.1
 DEPTH_LIMIT = 100
 #可选的级别有: CRITICAL、 ERROR、WARNING、INFO、DEBUG
-LOG_LEVEL = 'DEBUG'
+LOG_LEVEL = 'INFO'
+LOG_FILE = '/Users/maixinlong/work/ms/house58/crawl/log.txt'
 
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
